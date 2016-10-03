@@ -1,6 +1,6 @@
 # Ashcoding Whetstone
 
-Repo for me, @ashcoding to train my coding and algo skills.
+Repo for me, @ashcoding, to train my coding and algo skills.
 
 ## Let's start training!
 
